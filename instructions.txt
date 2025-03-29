@@ -4,7 +4,7 @@ Step 1 : Setup the Project
    ▫ Create a main html file name it as index.html
    ▫ Create a style file name it as style.css
 
-Step 2 : Getting Started
+Step 2 : Getting Started,
    ▫ Start with boiler plate code in html file and css file
    ▫ Make sure style file is linked in html file
 
